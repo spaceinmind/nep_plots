@@ -4,13 +4,18 @@ This repository contains Python scripts to plot figures that are presented in [H
 
 ## Features
 
-- Compare photometry from two datasets and plot the 2D histogram-based contours with confience levels of the distribution
+- Compare photometry from two datasets and plot the 2D histogram-based contours with confidence levels of the distribution
 - WCS-FITS image mosaics with source overlays in different bands
 - Plot filter transmission/response curves
 
 ## Example plots
+- Filter transmission/response curves  
 <img src="plots/filter_response_example.png" alt="filter_response_example" width="800">  
-<img src="plots/fits_input_example_plot.png" alt="fits_input_example_plot" width="800">  
+
+- WCS-FITS image mosaics with source overlays in different bands  
+<img src="plots/fits_input_example_plot.png" alt="fits_input_example_plot" width="800">
+
+- Magnitude vs colors of 
 <img src="plots/mag_color_outlier_example_plot.png" alt="mag_color_outlier_example_plot" width="800">  
 
 ## Citation
