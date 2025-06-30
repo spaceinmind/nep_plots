@@ -4,10 +4,9 @@ This repository contains Python scripts to plot figures that are presented in [H
 
 ## Features
 
-- Compare HSC with Maidanak and MEGACAM photometry
-- WCS-aware FITS image mosaics with source overlays
-- Plot HSC filter transmission curves
-- 2D histogram-based contour plotting with confidence levels
+- Compare photometry from two datasets and plot the 2D histogram-based contours with confience levels of the distribution
+- WCS-FITS image mosaics with source overlays in different bands
+- Plot filter transmission/response curves
 
 ## Example plots
 <img src="plots/filter_response_example.png" alt="filter_response_example" width="800">  
