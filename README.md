@@ -22,3 +22,6 @@ cd photometry-comparison
 <img src="plots/filter_response_example.png" alt="filter_response_example" width="800">  
 <img src="plots/fits_input_example_plot.png" alt="fits_input_example_plot" width="800">  
 <img src="plots/mag_color_outlier_example_plot.png" alt="mag_color_outlier_example_plot" width="800">  
+
+## Citation
+Please cite [Ho et al. 2021, MNRAS](https://academic.oup.com/mnras/article/502/1/140/6122898?login=false) if you use the code in your paper.
