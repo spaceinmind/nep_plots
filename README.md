@@ -15,7 +15,7 @@ This repository contains Python scripts to plot figures that are presented in [H
 - WCS-FITS image mosaics with source overlays in different bands  
 <img src="plots/fits_input_example_plot.png" alt="fits_input_example_plot" width="800">
 
-- Magnitude vs colors of 
+- Magnitude vs colors for HSC_R and Maidanak_R
 <img src="plots/mag_color_outlier_example_plot.png" alt="mag_color_outlier_example_plot" width="800">  
 
 ## Citation
