@@ -9,15 +9,6 @@ This repository contains Python scripts to plot figures that are presented in [H
 - Plot HSC filter transmission curves
 - 2D histogram-based contour plotting with confidence levels
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/photometry-comparison.git
-cd photometry-comparison
-```
-
 ## Example plots
 <img src="plots/filter_response_example.png" alt="filter_response_example" width="800">  
 <img src="plots/fits_input_example_plot.png" alt="fits_input_example_plot" width="800">  
