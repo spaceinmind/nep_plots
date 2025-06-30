@@ -1,6 +1,6 @@
- Photometric Comparison Tools
+NEP Photometric plotting scripts
 
-This repository contains Python scripts to plot figures that are presented in [Ho et al. 2021, MNRAS](https://academic.oup.com/mnras/article/502/1/140/6122898?login=false). The visualizations include scatter plots, confidence contours, and histograms for residual analysis, as well as filter transmission curves.
+This repository contains Python scripts to plot figures that are presented in [Ho et al. 2021, MNRAS](https://academic.oup.com/mnras/article/502/1/140/6122898?login=false). The visualizations include scatter plots, confidence contours, and histograms and filter transmission curves.
 
 ## Features
 
