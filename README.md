@@ -1,4 +1,4 @@
-# North Ecliptic Pole (NEP) AKARI photometric plotting scripts
+# North Ecliptic Pole (NEP) AKARI plotting scripts
 
 This repository contains Python scripts to plot figures that are presented in [Ho et al. 2021, MNRAS](https://academic.oup.com/mnras/article/502/1/140/6122898?login=false). The visualizations include scatter plots, confidence contours, and histograms and filter transmission curves.
 
