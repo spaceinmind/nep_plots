@@ -8,11 +8,11 @@ import numpy as np
 fig, ax = plt.subplots(figsize=(10, 6))
 
 # Read data
-data = pd.read_csv('/fred/oz002/users/sho/nep/filters/HSC_g.csv', delimiter=',', dtype='float', header=None)
-data1 = pd.read_csv('/fred/oz002/users/sho/nep/filters/HSC_r.csv', delimiter=',', dtype='float', header=None)
-data2 = pd.read_csv('/fred/oz002/users/sho/nep/filters/HSC_i.csv', delimiter=',', dtype='float', header=None)
-data3 = pd.read_csv('/fred/oz002/users/sho/nep/filters/HSC_z.csv', delimiter=',', dtype='float', header=None)
-data4 = pd.read_csv('/fred/oz002/users/sho/nep/filters/HSC_y.csv', delimiter=',', dtype='float', header=None)
+data = pd.read_csv('HSC_g.csv', delimiter=',', dtype='float', header=None)
+data1 = pd.read_csv('HSC_r.csv', delimiter=',', dtype='float', header=None)
+data2 = pd.read_csv('HSC_i.csv', delimiter=',', dtype='float', header=None)
+data3 = pd.read_csv('HSC_z.csv', delimiter=',', dtype='float', header=None)
+data4 = pd.read_csv('HSC_y.csv', delimiter=',', dtype='float', header=None)
 
 # List of datasets, labels, and colors
 datasets = [
