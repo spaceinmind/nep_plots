@@ -16,7 +16,7 @@ def objective(limit, target, counts):
     return counts[counts > limit].sum() - target
 
 # Load data
-data = pd.read_csv('/fred/oz002/users/sho/nep/tosimon.csv', delimiter=',', dtype='object')
+data = pd.read_csv('catalog.csv', delimiter=',', dtype='object')
 data = data.astype({
     'HSC_R': float,
     'Maidanak_R': float,
