@@ -37,13 +37,13 @@ def main():
 
     # FITS file info: (filename, hdu_index, width_in_pixels, scale_factor, vmax, label)
     fits_info = [
-        ('/fred/oz002/users/sho/nep/calexp-HSC-I-18114-3,6.fits', 1, 220, 1000, 3000.0, 'HSC i-band'),
-        ('/fred/oz002/users/sho/nep/calexp-HSC-Z-18114-3,6.fits', 1, 220, 1000, 3000.0, 'HSC z-band'),
-        ('/fred/oz002/users/sho/nep/westI.fits', 0, 140, 10, 100.0, 'SNUCAM I-band'),
-        ('/fred/oz002/users/sho/nep/np5iswarp_st2.fits', 0, 200, 10.0, 2000, 'MegaCam i-band'),
-        ('/fred/oz002/users/sho/nep/NEPW_N2_mosaic_W.fits', 0, 25, 500.0, 1200.0, 'AKARI N2'),
-        ('/fred/oz002/users/sho/nep/NEPW_N3_mosaic_W.fits', 0, 25, 500.0, 1400.0, 'AKARI N3'),
-        ('/fred/oz002/users/sho/nep/NEPW_N4_mosaic_W.fits', 0, 25, 500.0, 1600.0, 'AKARI N4'),
+        ('calexp-HSC-I-18114-3,6.fits', 1, 220, 1000, 3000.0, 'HSC i-band'),
+        ('calexp-HSC-Z-18114-3,6.fits', 1, 220, 1000, 3000.0, 'HSC z-band'),
+        ('westI.fits', 0, 140, 10, 100.0, 'SNUCAM I-band'),
+        ('np5iswarp_st2.fits', 0, 200, 10.0, 2000, 'MegaCam i-band'),
+        ('NEPW_N2_mosaic_W.fits', 0, 25, 500.0, 1200.0, 'AKARI N2'),
+        ('NEPW_N3_mosaic_W.fits', 0, 25, 500.0, 1400.0, 'AKARI N3'),
+        ('NEPW_N4_mosaic_W.fits', 0, 25, 500.0, 1600.0, 'AKARI N4'),
     ]
 
     # Load catalog sources (RA/DEC in degrees)
